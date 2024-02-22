@@ -127,12 +127,25 @@
     line-height: 2rem;
   }
 
-  .info h2{
-    margin: 0 0 1rem 0;
+  .info h3{
+    margin: 0 0 .5rem 0;
   }
 
   .info li{
     list-style: none;
+  }
+
+  .contacts{
+    margin: 2rem 0 0 0;
+  }
+
+  .contacts h3{
+    margin: 0 0 1rem 0;
+  }
+
+  .contacts p{
+    margin: 0 0 2rem 0;
+    font-style: 16px;
   }
 
   .rights{
@@ -141,7 +154,6 @@
     justify-content: center;
     align-items: center;
     border-top: 1px solid #fff;
-    margin: 1.5rem 0 0 0;
   }
 
 }
